@@ -1,0 +1,52 @@
+{
+  "properties": [
+    {
+      "id": 1,
+      "title": "2 BHK Apartment in Delhi",
+      "price": 5500000,
+      "location": "Dwarka, New Delhi",
+      "size_sqft": 950,
+      "isAvailable": true
+    },
+    {
+      "id": 2,
+      "title": "3 BHK Villa in Bangalore",
+      "price": 12000000,
+      "location": "Whitefield, Bangalore",
+      "size_sqft": 2100,
+      "isAvailable": false
+    },
+    {
+      "id": 3,
+      "title": "Studio Apartment in Mumbai",
+      "price": 3200000,
+      "location": "Andheri, Mumbai",
+      "size_sqft": 450,
+      "isAvailable": true
+    },
+    {
+      "id": 4,
+      "title": "Office Space in Pune",
+      "price": 7500000,
+      "location": "Hinjewadi, Pune",
+      "size_sqft": 1800,
+      "isAvailable": true
+    },
+    {
+      "id": 5,
+      "title": "4 BHK Independent House in Hyderabad",
+      "price": 14500000,
+      "location": "Gachibowli, Hyderabad",
+      "size_sqft": 2500,
+      "isAvailable": false
+    },
+    {
+      "id": 6,
+      "title": "1 BHK Flat in Chennai",
+      "price": 4200000,
+      "location": "Velachery, Chennai",
+      "size_sqft": 600,
+      "isAvailable": true
+    }
+  ]
+}
