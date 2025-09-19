@@ -1,52 +1,68 @@
-{
-  "properties": [
-    {
-      "id": 1,
-      "title": "2 BHK Apartment in Delhi",
-      "price": 5500000,
-      "location": "Dwarka, New Delhi",
-      "size_sqft": 950,
-      "isAvailable": true
-    },
-    {
-      "id": 2,
-      "title": "3 BHK Villa in Bangalore",
-      "price": 12000000,
-      "location": "Whitefield, Bangalore",
-      "size_sqft": 2100,
-      "isAvailable": false
-    },
-    {
-      "id": 3,
-      "title": "Studio Apartment in Mumbai",
-      "price": 3200000,
-      "location": "Andheri, Mumbai",
-      "size_sqft": 450,
-      "isAvailable": true
-    },
-    {
-      "id": 4,
-      "title": "Office Space in Pune",
-      "price": 7500000,
-      "location": "Hinjewadi, Pune",
-      "size_sqft": 1800,
-      "isAvailable": true
-    },
-    {
-      "id": 5,
-      "title": "4 BHK Independent House in Hyderabad",
-      "price": 14500000,
-      "location": "Gachibowli, Hyderabad",
-      "size_sqft": 2500,
-      "isAvailable": false
-    },
-    {
-      "id": 6,
-      "title": "1 BHK Flat in Chennai",
-      "price": 4200000,
-      "location": "Velachery, Chennai",
-      "size_sqft": 600,
-      "isAvailable": true
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "name": "Luxury Villa in Goa",
+    "location": "Goa, India",
+    "price": 25000000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "square_feet": 3500,
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+    "isFeatured": true
+  },
+  {
+    "id": 2,
+    "name": "Modern Apartment in Mumbai",
+    "location": "Mumbai, India",
+    "price": 15000000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 1800,
+    "image": "https://plus.unsplash.com/premium_photo-1661925668034-7019cd82306e?q=80&w=911&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "isFeatured": true
+  },
+  {
+    "id": 3,
+    "name": "Beach House in Kerala",
+    "location": "Kerala, India",
+    "price": 20000000,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "square_feet": 4000,
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1200&q=80",
+    "isFeatured": true
+  },
+  {
+    "id": 4,
+    "name": "Penthouse in Delhi",
+    "location": "Delhi, India",
+    "price": 30000000,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "square_feet": 2800,
+    "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=80",
+    "isFeatured": true
+  },
+  {
+    "id": 5,
+    "name": "Suburban House in Bangalore",
+    "location": "Bangalore, India",
+    "price": 12000000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 2000,
+    "image": "https://images.unsplash.com/photo-1740466778807-f4f5c854f202?q=80&w=688&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "isFeatured": true
+  },
+  {
+    "id": 6,
+    "name": "1 BHK Flat in Chennai",
+    "location": "Velachery, Chennai",
+    "price": 4200000,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "square_feet": 600,
+    "image": "https://images.unsplash.com/photo-1746549854237-1836d4c6d76c?q=80&w=1181&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "isFeatured": true
+  }
+]
