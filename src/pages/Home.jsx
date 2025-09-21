@@ -4,6 +4,7 @@ import Hero from '../components/Hero'
 import WhyHomehunt from '../components/WhyHomehunt'
 import FeaturedProperties from '../components/FeaturedProperties'
 import Footer from '../components/Footer'
+import AboutUs from '../components/AboutUs'
 
 
 const Home = () => {
@@ -13,6 +14,7 @@ const Home = () => {
     <Hero />
     <WhyHomehunt />
     <FeaturedProperties />
+    <AboutUs />
     <Footer />
     </>
   )
