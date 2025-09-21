@@ -5,6 +5,7 @@ import WhyHomehunt from '../components/WhyHomehunt'
 import FeaturedProperties from '../components/FeaturedProperties'
 import Footer from '../components/Footer'
 import AboutUs from '../components/AboutUs'
+import ContactUs from '../components/ContactUs'
 
 
 const Home = () => {
@@ -15,6 +16,7 @@ const Home = () => {
     <WhyHomehunt />
     <FeaturedProperties />
     <AboutUs />
+    <ContactUs />
     <Footer />
     </>
   )

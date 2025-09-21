@@ -15,7 +15,7 @@ const WhyHomehunt = () => {
         <div className="mt-12">
           <div className="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3">
             <div className="pt-6">
-              <div className="flow-root bg-white rounded-lg px-6 pb-8 shadow-lg">
+              <div className="flow-root bg-white rounded-lg px-6 pb-8 shadow-lg hover:scale-105 hover:cursor-pointer">
                 <div className="mt-6 text-center">
                   <div>
                     <span className="inline-flex items-center justify-center p-3 bg-indigo-500 rounded-md shadow-lg">
@@ -33,7 +33,7 @@ const WhyHomehunt = () => {
             </div>
 
             <div className="pt-6">
-              <div className="flow-root bg-white rounded-lg px-6 pb-8 shadow-lg">
+              <div className="flow-root bg-white rounded-lg px-6 pb-8 shadow-lg hover:scale-105 hover:cursor-pointer">
                 <div className="mt-6 text-center">
                   <div>
                     <span className="inline-flex items-center justify-center p-3 bg-indigo-500 rounded-md shadow-lg">
@@ -51,7 +51,7 @@ const WhyHomehunt = () => {
             </div>
 
             <div className="pt-6">
-              <div className="flow-root bg-white rounded-lg px-6 pb-8 shadow-lg">
+              <div className="flow-root bg-white rounded-lg px-6 pb-8 shadow-lg hover:scale-105 hover:cursor-pointer">
                 <div className="mt-6 text-center">
                   <div>
                     <span className="inline-flex items-center justify-center p-3 bg-indigo-500 rounded-md shadow-lg">
